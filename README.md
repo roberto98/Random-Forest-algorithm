@@ -2,8 +2,8 @@
 📚 "Machine Learning" project (Artificial Intelligence, UniGe)
 
 A detailed report and a presentation on this project can be found here:
-- [Random_Forest_algorithm_report.pdf](https://github.com/roberto98/Random-Forest-algorithm/files/12685478/project_presentation_random_forest.pdf)
-- [Random_Forest_algorithm_presentation.pdf](https://github.com/roberto98/Random-Forest-algorithm/files/12685477/report_random_forest.pdf)
+- [Random_Forest_algorithm_report.pdf](https://github.com/roberto98/Random-Forest-algorithm/files/12685477/report_random_forest.pdf)
+- [Random_Forest_algorithm_presentation.pdf](https://github.com/roberto98/Random-Forest-algorithm/files/12685478/project_presentation_random_forest.pdf)
 
 ## Overview
 This repository contains the implementation of the Random Forest algorithm, a supervised machine learning method used for classification and regression tasks. It combines the output of multiple decision trees to reach a single result by taking the average or majority of predictions. The algorithm's success is attributed to the low correlation between its models (trees), making it an extension of the bagging method that utilizes both bagging and feature randomness.
